@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "scCLtziOWrKnId8d08fx4Pv0C9YPXVGV1aQu6FBZIEX9ed3zYw203B8m3UsfUR0tLVuLz88q1aUeL/4oyc+OFw==",
+  "dgSpecHash": "3REYGSwy01ng/zJ2ciL2hEkBln/8t/2mtSLcL9pAMw0A4BDpnRq3PTWY2Gist7HCLtLCRtmYsNxgBeKklk8ZJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",

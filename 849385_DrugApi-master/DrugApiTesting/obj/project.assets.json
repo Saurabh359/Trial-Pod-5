@@ -5792,11 +5792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\DrugApiTesting\\DrugApiTesting.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\DrugApiTesting\\DrugApiTesting.csproj",
       "projectName": "DrugApiTesting",
-      "projectPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\DrugApiTesting\\DrugApiTesting.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\DrugApiTesting\\DrugApiTesting.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\DrugApiTesting\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\DrugApiTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5815,8 +5815,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj"
+            "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj"
             }
           }
         }

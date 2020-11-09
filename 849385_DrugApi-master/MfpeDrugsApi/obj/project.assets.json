@@ -6054,11 +6054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj",
       "projectName": "MfpeDrugsApi",
-      "projectPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\MfpeDrugsApi\\MfpeDrugsApi.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\849385_DrugApi-master\\MfpeDrugsApi\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\849385_DrugApi-master\\MfpeDrugsApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -4757,11 +4757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Trile Mail Order\\Mfpe_Subscription-master\\849376_Subscriptionservice-master\\SubscriptionService.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\Mfpe_Subscription-master\\849376_Subscriptionservice-master\\SubscriptionService.csproj",
       "projectName": "SubscriptionService",
-      "projectPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\Mfpe_Subscription-master\\849376_Subscriptionservice-master\\SubscriptionService.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\Mfpe_Subscription-master\\849376_Subscriptionservice-master\\SubscriptionService.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\Mfpe_Subscription-master\\849376_Subscriptionservice-master\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\Mfpe_Subscription-master\\849376_Subscriptionservice-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

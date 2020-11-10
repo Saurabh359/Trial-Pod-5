@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xcSx9y4Adb4Xv80lF/uizXEeuK+875hLkKa1dGFre6EFxAW5BsigeCzfRD4uLKbsYEADXP+Lyg6e5t52kiffTg==",
+  "dgSpecHash": "MuKD9gAiefg7RsR5naQTesyJYkuNYwUIT12VRfT2IxFj/CItCre0g5f8LwRDMyfC3/FFhFoFvzzHMNbDNCqwzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",

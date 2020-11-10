@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {}
+    "C:\\Users\\user\\Desktop\\Trile Mail Order\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {
+    "C:\\Users\\user\\Desktop\\Trile Mail Order\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Trile Mail Order\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
         "projectName": "AuthorizationMicroService",
-        "projectPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\AuthorizationMicroService\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Mail Order Pharmacy\\AuthorizationMicroService\\AuthorizationMicroService\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Trile Mail Order\\AuthorizationMicroService\\AuthorizationMicroService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
